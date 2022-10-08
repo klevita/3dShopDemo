@@ -1,0 +1,464 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 59707,
+      "max": [
+        1.0909364223480225,
+        0.32855772972106934,
+        0.6918034553527832
+      ],
+      "min": [
+        -1.0881330966949463,
+        -0.4106791019439697,
+        -1.2206270694732666
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 716484,
+      "componentType": 5126,
+      "count": 59707,
+      "max": [
+        1.0,
+        0.999992847442627,
+        0.9987936615943909
+      ],
+      "min": [
+        -1.0,
+        -0.9999991655349731,
+        -0.9992280006408691
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 59707,
+      "max": [
+        1.0,
+        0.9999188184738159,
+        0.9996927380561829,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999664425849915,
+        -0.9999681711196899,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 59707,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        8.881784197001252e-16,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 477656,
+      "componentType": 5126,
+      "count": 59707,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        8.881784197001252e-16,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 246720,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1432968,
+      "componentType": 5126,
+      "count": 15947,
+      "max": [
+        1.494720458984375,
+        0.4561976194381714,
+        0.7752804756164551
+      ],
+      "min": [
+        -1.5019649267196655,
+        -0.24185766279697418,
+        -0.7202479839324951
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1624332,
+      "componentType": 5126,
+      "count": 15947,
+      "max": [
+        0.9997785091400146,
+        0.9999793767929077,
+        0.9994474649429321
+      ],
+      "min": [
+        -0.9990628957748413,
+        -0.9999368190765381,
+        -0.9997644424438477
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 955312,
+      "componentType": 5126,
+      "count": 15947,
+      "max": [
+        0.999724268913269,
+        0.9999844431877136,
+        0.9999502301216125,
+        1.0
+      ],
+      "min": [
+        -0.999980628490448,
+        -0.9997407793998718,
+        -0.9998877048492432,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 955312,
+      "componentType": 5126,
+      "count": 15947,
+      "max": [
+        0.894706130027771,
+        0.7494451403617859
+      ],
+      "min": [
+        0.1337200105190277,
+        0.0486220046877861
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1082888,
+      "componentType": 5126,
+      "count": 15947,
+      "max": [
+        0.894706130027771,
+        0.7494451403617859
+      ],
+      "min": [
+        0.1337200105190277,
+        0.0486220046877861
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1210464,
+      "componentType": 5126,
+      "count": 15947,
+      "max": [
+        0.894706130027771,
+        0.7494451403617859
+      ],
+      "min": [
+        0.1337200105190277,
+        0.0486220046877861
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 986880,
+      "componentType": 5125,
+      "count": 68736,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Nik25 (https://sketchfab.com/Nik25)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/adidas-hoodie-3c2191a4e83d46979e57512356187482",
+      "title": "adidas hoodie"
+    },
+    "generator": "Sketchfab-12.68.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1261824,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1338040,
+      "byteOffset": 1261824,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1815696,
+      "byteOffset": 2599864,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1210464,
+      "byteOffset": 4415560,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 5626024,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/FABRIC_1_FRONT_1528_baseColor.png"
+    },
+    {
+      "uri": "textures/FABRIC_1_FRONT_1528_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/FABRIC_1_FRONT_1528_normal.png"
+    },
+    {
+      "uri": "textures/FABRIC_2_FRONT_1533_baseColor.png"
+    },
+    {
+      "uri": "textures/FABRIC_2_FRONT_1533_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/FABRIC_2_FRONT_1533_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "FABRIC_1_FRONT_1528",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "FABRIC_2_FRONT_1533",
+      "normalTexture": {
+        "index": 5
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicRoughnessTexture": {
+          "index": 4
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Hoodie 1_FABRIC_1_FRONT_1528_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Hoodie 1_FABRIC_2_FRONT_1533_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TANGENT": 8,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10,
+            "TEXCOORD_2": 11
+          },
+          "indices": 12,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.4927016794681549,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0940174976340587e-16,
+        -0.4927016794681549,
+        0.0,
+        0.0,
+        0.4927016794681549,
+        1.0940174976340587e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "3a1254452cc94e07b5386a329b9663fe.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "matrix": [
+        96.58595731743091,
+        1.101322694152529e-06,
+        25.906617862534887,
+        0.0,
+        25.90661786253473,
+        -1.5996667390716368e-05,
+        -96.58595731742966,
+        0.0,
+        3.080472418814928e-06,
+        99.99999999999872,
+        -1.5735849800968538e-05,
+        0.0,
+        -47.83632278442383,
+        391.8094482421875,
+        3.1562561988830566,
+        1.0
+      ],
+      "name": "Hoodie 1"
+    },
+    {
+      "mesh": 0,
+      "name": "Hoodie 1_FABRIC_1_FRONT_1528_0"
+    },
+    {
+      "mesh": 1,
+      "name": "Hoodie 1_FABRIC_2_FRONT_1533_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "sampler": 0,
+      "source": 4
+    },
+    {
+      "sampler": 0,
+      "source": 5
+    }
+  ]
+}
